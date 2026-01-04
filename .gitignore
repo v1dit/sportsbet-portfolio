@@ -1,0 +1,9 @@
+node_modules/
+artifacts/
+cache/
+package-lock.json
+.env
+.vscode/
+dist/
+/.idea/
+*.lognode_modules

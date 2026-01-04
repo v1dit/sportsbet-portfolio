@@ -1,0 +1,24 @@
+{
+  "name": "sportsbet-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v1dit/sportsbet-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/v1dit/sportsbet-portfolio/issues"
+  },
+  "homepage": "https://github.com/v1dit/sportsbet-portfolio#readme",
+  "devDependencies": {
+    "hardhat": "^3.1.2"
+  }
+}
