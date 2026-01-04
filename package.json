@@ -20,5 +20,8 @@
   "homepage": "https://github.com/v1dit/sportsbet-portfolio#readme",
   "devDependencies": {
     "hardhat": "^3.1.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
   }
 }
