@@ -1,4 +1,4 @@
-# 🏦 Decentralized AI-Powered Sports Betting Clearinghouse
+# Decentralized AI-Powered Sports Betting Clearinghouse
 
 A full-stack **Web3 + AI platform** that models sports betting as a **financial clearing and portfolio management system**. The project combines **blockchain smart contracts** for trustless settlement with **machine-learning–based predictive analytics** to evaluate betting decisions as probabilistic investments.
 
@@ -6,7 +6,7 @@ Think **Robinhood-style portfolio tracking**, but for sports betting — powered
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Traditional sports betting platforms are opaque, fragmented, and centralized. This project re-imagines sports betting infrastructure as a **decentralized clearinghouse**, where:
 
@@ -19,7 +19,7 @@ The result is a transparent, trustless, and data-driven betting system inspired 
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 AI Prediction Engine
 ↓
@@ -34,7 +34,7 @@ Copy code
 
 ---
 
-## 🔗 Blockchain Layer (Clearinghouse)
+## Blockchain Layer (Clearinghouse)
 
 ### Smart Contract: `BettingClearinghouse.sol`
 
@@ -54,7 +54,7 @@ Contracts are developed and deployed using **Hardhat and Ethers.js** on Ethereum
 
 ---
 
-## 🤖 AI Prediction Engine
+## AI Prediction Engine
 
 The AI layer provides **decision support**, not automation.
 
@@ -73,7 +73,7 @@ This mirrors how **quantitative trading systems** evaluate risk and return.
 
 ---
 
-## 🖥️ Frontend (Portfolio Dashboard)
+## Frontend (Portfolio Dashboard)
 
 Built with **React and MetaMask integration**, the frontend allows users to:
 
@@ -87,7 +87,7 @@ The UI is intentionally designed as a **portfolio dashboard**, not a traditional
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Blockchain**
 - Solidity  
@@ -114,7 +114,7 @@ The UI is intentionally designed as a **portfolio dashboard**, not a traditional
 
 ---
 
-## 🧪 Local Development
+## Local Development
 
 ### Install dependencies
 ```bash
@@ -128,7 +128,7 @@ bash
 Copy code
 cd frontend
 npm start
-🚀 Deployment (Testnet)
+Deployment (Testnet)
 Create .env from .env.example
 
 Add Sepolia RPC URL and MetaMask private key
@@ -140,7 +140,7 @@ Deploy contract:
 bash
 Copy code
 npx hardhat run scripts/deploy.js --network sepolia
-📌 Roadmap
+Roadmap
  Smart contract clearinghouse
 
  Hardhat deployment pipeline
@@ -155,7 +155,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 
  Oracle automation (Chainlink)
 
-🎯 Why This Project Matters
+Why This Project Matters
 This project demonstrates:
 
 Blockchain systems design
@@ -168,8 +168,9 @@ End-to-end full-stack engineering
 
 It is not a sportsbook — it is Web3 financial infrastructure applied to sports markets.
 
-📄 License
+License
 MIT License
 
 yaml
 Copy code
+
