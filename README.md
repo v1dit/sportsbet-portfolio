@@ -1,10 +1,10 @@
-Decentralized AI-Powered Sports Betting Clearinghouse
+🏦 Decentralized AI-Powered Sports Betting Clearinghouse
 
 A full-stack Web3 + AI platform that models sports betting as a financial clearing and portfolio management system. The project combines blockchain smart contracts for trustless settlement with machine-learning–based predictive analytics to evaluate betting decisions as probabilistic investments.
 
 Think Robinhood-style portfolio tracking, but for sports betting — powered by AI decision intelligence and blockchain-backed execution.
 
-Project Overview
+🚀 Project Overview
 
 Traditional sports betting platforms are opaque, fragmented, and centralized. This project re-imagines sports betting infrastructure as a decentralized clearinghouse, where:
 
@@ -18,7 +18,7 @@ AI models provide probabilistic forecasts and edge analysis
 
 The result is a transparent, trustless, and data-driven betting system that mirrors principles from quantitative finance and financial market infrastructure.
 
-System Architecture
+🧠 System Architecture
 ┌──────────────┐
 │  AI Engine   │  ← ML prediction & odds modeling
 └──────┬───────┘
@@ -35,7 +35,7 @@ System Architecture
 │ Ethereum L2   │  ← Immutable execution & payouts
 └──────────────┘
 
-Blockchain Layer (Clearinghouse)
+🔗 Blockchain Layer (Clearinghouse)
 Smart Contract: BettingClearinghouse.sol
 
 Responsibilities:
@@ -60,7 +60,7 @@ Contract = financial clearinghouse analogue
 
 Deployed using Hardhat + Ethers.js on Ethereum testnet.
 
-AI Prediction Engine
+🤖 AI Prediction Engine
 
 The AI layer provides decision support, not automation.
 
@@ -84,7 +84,7 @@ Suggested betting edge
 
 This mirrors how quantitative trading models analyze risk and return in financial markets.
 
-Frontend (Portfolio Dashboard)
+🖥️ Frontend (Portfolio Dashboard)
 
 Built with React and MetaMask integration, the UI allows users to:
 
@@ -100,7 +100,7 @@ Compare AI predictions to market odds
 
 The UX is intentionally designed to resemble a financial portfolio dashboard rather than a traditional sportsbook.
 
-Tech Stack
+🛠️ Tech Stack
 Blockchain
 
 Solidity
@@ -139,7 +139,7 @@ Alchemy RPC
 
 dotenv
 
-Local Development
+🧪 Local Development
 1. Install dependencies
 npm install
 
@@ -150,7 +150,7 @@ npx hardhat compile
 cd frontend
 npm start
 
-Deployment (Testnet)
+🚀 Deployment (Testnet)
 
 Create .env from .env.example
 
@@ -162,7 +162,7 @@ Deploy:
 
 npx hardhat run scripts/deploy.js --network sepolia
 
-Roadmap
+📌 Roadmap
 
  Smart contract clearinghouse
 
@@ -178,7 +178,7 @@ Roadmap
 
  Oracle automation (Chainlink)
 
-Why This Project Matters
+🎯 Why This Project Matters
 
 This project demonstrates:
 
@@ -192,4 +192,6 @@ End-to-end full-stack engineering
 
 It is not a sportsbook — it is Web3 financial infrastructure applied to sports markets.
 
-License
+📄 License
+
+MIT License
